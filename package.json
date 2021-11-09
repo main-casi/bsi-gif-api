@@ -1,7 +1,7 @@
 {
   "name": "gif-api",
   "version": "1.0.0",
-  "description": "Uma API REST que retorna gifs do site giphy.com",
+  "description": "Uma API REST que retorna um objeto json com urls de gifs do site giphy.com",
   "main": "api/index.js",
   "author": "Aaron Carneiro",
   "license": "MIT",
